@@ -6,6 +6,8 @@
 # The data are partially proprietory at the Deutsche Bundesbank and cannot be shared
 # Johannes Beutel, Sophia List and Gregor von Schweinitz
 
+# Please cite appropriately, and write an email to gsz@iwh-halle.de in case of errors
+
 #################################
 # Code for running all estimations
 # script_run_allmaster.R: sources different versions of script_master_XXX.R, one for every type of analysis.
