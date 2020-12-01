@@ -13,7 +13,7 @@ Please cite as
 Beutel, J., List, S., & von Schweinitz, G. (2019). Does machine learning help us predict banking crises?. Journal of Financial Stability, 45, 100693.
 
 In case of questions and errors, please write an email to
-gsz@iwh-halle.de
+gregorvon.schweinitz@iwh-halle.de
 
 #################################
 # Code for running all estimations
